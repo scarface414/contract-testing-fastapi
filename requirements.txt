@@ -1,0 +1,5 @@
+fastapi           0.109.2
+
+uvicorn , psycorp2 , sqlalchemy , pact-python , pytest , yarl , invoke
+
+note : we have to run the init DB file
